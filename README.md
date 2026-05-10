@@ -59,5 +59,11 @@ I used SMOTE to fix the imbalance and then trained a Random Forest model on top 
 
 ---
 
+## open google collab file
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uml-by-yash/fraud-detection-financial-transactions/blob/main/Notebook/Fraud_detection_on_credit_card_transactions.ipynb)
+
+---
+
 Made by Yash
 B.E. IT — LDRP-ITR, KSV (2026-27)
