@@ -52,8 +52,7 @@ I used SMOTE to fix the imbalance and then trained a Random Forest model on top 
 
 ```
 ├── notebooks/        --> colab notebook
-├── dashboard/        --> power bi dashboard file
-├── data/             --> dataset files
+├── dashboard/        --> power bi dashboard
 └── README.md
 ```
 
